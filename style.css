@@ -114,13 +114,13 @@ input[type="password"]:invalid {
   font-size: 25px;
 }
 
-.login-link-container {
-
-
+p {
+  margin-top: 10px;
+  
   a {
-    color: rgba(0, 0, 0, 0.7);
+
     &:hover {
-      color: rgba(0, 0, 0, 0.5);
+      opacity: 0.7;
     }
   }
 }
